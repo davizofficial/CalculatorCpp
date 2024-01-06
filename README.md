@@ -1,9 +1,9 @@
 # Project C++ Calculator
-
-How To Install :
-
-$pkg install g++
-$git clone https://github.com/davizofficial/CalculatorCpp
-$cd CalculatorCpp
-$chmod 777 calculator.cpp
-$./calculator.cpp
+<br>
+How To Install :<br>
+<br>
+$pkg install g++<br>
+$git clone https://github.com/davizofficial/CalculatorCpp<br>
+$cd CalculatorCpp<br>
+$chmod 777 calculator.cpp<br>
+$./calculator.cpp<br>
